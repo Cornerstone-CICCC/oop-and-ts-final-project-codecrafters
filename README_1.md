@@ -1,5 +1,5 @@
 # Kanban Board App
-![Kanban Board App Image](assets/images/app-image.png)
+![Kanban Board App Image](CodeCrafters/src/assets/app_image.png)
 
 ## ✍️ Project Overview
 Kanban Board App is a simple and intuitive task management tool designed to help users visualize and organize their workflow efficiently.
@@ -14,5 +14,5 @@ Kanban Board App is a simple and intuitive task management tool designed to help
 ## Tech Stack
 - **Frontend**: Astro, TypeScript
 - **Database**: Supabase
-- **Styling**: SASS
+- **Styling**: Sass
 - **Other Tools**: Prettier
