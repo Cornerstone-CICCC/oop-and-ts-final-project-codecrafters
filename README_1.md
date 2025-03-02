@@ -9,6 +9,7 @@ Kanban Board App is a simple and intuitive task management tool designed to help
 - **Drag-and-Drop Functionality**: Easily move tasks between lists with an intuitive drag-and-drop interface.
 - **Task Management**: Add, edit, and delete tasks with ease.
 - **Real-Time Updates**: Changes are reflected instantly, ensuring a seamless experience.
+- **Sort tasks by due date**: Tasks can be sorted by due date.
 - **Responsive Design**: Accessible on desktop, tablet, and mobile devices.
 
 ## 🛠️ Tech Stack
