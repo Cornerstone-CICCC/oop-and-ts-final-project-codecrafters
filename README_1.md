@@ -11,7 +11,7 @@ Kanban Board App is a simple and intuitive task management tool designed to help
 - **Real-Time Updates**: Changes are reflected instantly, ensuring a seamless experience.
 - **Responsive Design**: Accessible on desktop, tablet, and mobile devices.
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Frontend**: Astro, TypeScript
 - **Database**: Supabase
 - **Styling**: Sass
