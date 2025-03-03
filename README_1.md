@@ -11,7 +11,7 @@ Kanban Board App is a simple and intuitive task management tool designed to help
 - **Real-Time Updates**: Changes are reflected instantly, ensuring a seamless experience.
 - **Sort tasks by due date**: Tasks can be sorted by due date.
 - **Responsive Design**: Accessible on desktop, tablet, and mobile devices.
-- **Darkmode** toggle to switch between dark and light mode in the Kanban board UI, allowing you to change the color scheme of To-Do columns and modals.
+- **Darkmode** Toggle to switch between dark and light mode in the Kanban board UI, allowing you to change the color scheme of To-Do columns and modals.
 
 ## 🛠️ Tech Stack
 - **Frontend**: Astro, TypeScript
